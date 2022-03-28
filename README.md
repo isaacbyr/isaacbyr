@@ -1,8 +1,4 @@
 
-<div  align="center">
-  <h1>Hi there 👋</h1>
- </div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/U6dgE1dOWpyehzSqZe/giphy.gif"/>
  </div>
@@ -15,3 +11,8 @@
     <img src="https://img.shields.io/badge/outlook-blue?style=for-the-badge&logo=outlook&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
+
+h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
