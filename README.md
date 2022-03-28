@@ -20,11 +20,12 @@
  </div>
 
  --- 
- ### About Me :
+ ### :mountain_snow: About Me :
  Aspiring Full Stack Developer, primarly working with C# backends & React frontends
  
- - Currently working on a stock market trading and tracking app called StockPile
- - 
+ - :chart_with_upwards_trend: Currently working on a stock market trading and tracking app called StockPile
+ - :man_student: About to graduate from BrainStation web development bootcamp
+ - :test_tube: Spend spare time working on projects & learning DS&A
  
  
  ---
