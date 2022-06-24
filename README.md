@@ -13,15 +13,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=isaacbyr&style=flat-square&color=blue" alt=""/>
  </div>
-
- --- 
- ### :mountain_snow: About Me :
- Aspiring Full Stack Developer, primarly working with C# backends & React frontends
- 
- - :chart_with_upwards_trend: Currently working on a stock market trading and tracking app called StockPile
- - :man_student: About to graduate from BrainStation web development bootcamp
- - :test_tube: Spend spare time working on projects & learning DS&A
- 
  
  ---
 ### :hammer_and_wrench: Languages and Tools :
