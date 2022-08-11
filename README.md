@@ -25,7 +25,8 @@
      
           
      Desktop App Demo
-     https://www.linkedin.com/posts/isaacbyr_trading-stockmarket-coding-activity-6916817400357150721-9GQ1?utm_source=linkedin_share&utm_medium=member_desktop_web
+     <a href="https://www.linkedin.com/posts/isaacbyr_trading-stockmarket-coding-activity-6916817400357150721-9GQ1?utm_source=linkedin_share&utm_medium=member_desktop_web"></a>
+     
      
  
  
