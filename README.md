@@ -18,7 +18,9 @@
  </div>
  
  <div>
-  Links to demos of personal projects I have built!
+  <h4>Links to demos of personal projects I have built!<h4>
+   <p>StockPile is a project that I worked on while attending the BrainStation Web Development boot camp. This portion of the project features a web app built with React and Javascript that allows beginners to gain knowledge and build confidence in the stock market. Essentially when a user signs up for an account they are given $100,000 in paper money in a long-term and short-term portfolio. With the latest prices and charts, my app allows them to buy and sell stocks, building long-term and short-term portfolios that they can track over time. With a portfolio management dashboard, users can see a summary of their portfolio, portfolio asset percentages, transaction history, and realized profit/loss over time. To add to your competitive side you can become friends with other users on the app. This gives you access to leaderboards where you can see your friends winning percentages and profit losses in each portfolio. Furthermore, you can check out your friend's profiles to see what they currently have in their portfolios! <p>
+    https://www.loom.com/share/891b44b9bb0945c2bc0e9db275d5aab7
  </div>
  
  
